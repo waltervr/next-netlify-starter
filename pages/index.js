@@ -13,6 +13,7 @@ export default function Home() {
       <main>
         <Header title="Privacy Policy for Walter Vargas Ramírez" />
         <p className="description">
+        <h1>Privacy Policy for Walter Vargas Ramírez</h1>
           <p>
             At WalterVargasCR, accessible from
             https://comfy-mooncake-f7e5c7.netlify.app/, one of our main
